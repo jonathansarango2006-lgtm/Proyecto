@@ -1,0 +1,42 @@
+[
+    {
+        "caretX": 20,
+        "caretY": 13,
+        "filename": "C:/Users/PROGRAMACION DS/Documents/projects/Project1/main.cpp",
+        "focused": true,
+        "isOpen": true,
+        "left": 0,
+        "order": 0,
+        "top": 0
+    },
+    {
+        "caretX": 1,
+        "caretY": 1,
+        "filename": "C:/Users/PROGRAMACION DS/Documents/projects/Project1/instrumentos.txt",
+        "focused": false,
+        "isOpen": true,
+        "left": 0,
+        "order": 3,
+        "top": 0
+    },
+    {
+        "caretX": 1,
+        "caretY": 11,
+        "filename": "C:/Users/PROGRAMACION DS/Documents/projects/Project1/instrumentos.h",
+        "focused": false,
+        "isOpen": true,
+        "left": 0,
+        "order": 2,
+        "top": 0
+    },
+    {
+        "caretX": 2,
+        "caretY": 206,
+        "filename": "C:/Users/PROGRAMACION DS/Documents/projects/Project1/instrumentos.cpp",
+        "focused": false,
+        "isOpen": true,
+        "left": 0,
+        "order": 1,
+        "top": 2736
+    }
+]

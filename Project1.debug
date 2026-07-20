@@ -1,0 +1,15 @@
+{
+    "breakpoints": [
+        {
+            "breakpoint_type": 0,
+            "condition": "",
+            "enabled": true,
+            "filename": "instrumentos.cpp",
+            "line": 137,
+            "timestamp": "1784311667700"
+        }
+    ],
+    "timestamp": "1784312272475",
+    "watchvars": [
+    ]
+}
